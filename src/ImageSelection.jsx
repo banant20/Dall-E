@@ -7,7 +7,7 @@ import suit from "./images/suit.jpeg";
 import dress from "./images/dress.jpeg";
 import hat from "./images/hat.jpeg";
 import basketball from "./images/basketball.jpeg";
-import chess from "./images/chess.jpeg";
+import tennis from "./images/tennis.jpeg";
 import guitar from "./images/guitar.jpeg";
 import collo from "./images/collo.jpeg";
 import taj from "./images/taj.jpeg";
@@ -35,7 +35,7 @@ const categories = [
     images: [
       { src: guitar, description: "the guitar" },
       { src: basketball, description: "basketball" },
-      { src: chess, description: "chess" },
+      { src: tennis, description: "tennis" },
     ],
   },
   {
