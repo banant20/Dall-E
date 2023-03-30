@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+.category-image {
+    width: 300px; /* Set the desired width */
+    height: 300px; 
+    object-fit: cover; 
+}
+
+.category-image:hover {
+    box-shadow: 7px 5px 56px 15px #de2ce4;
+    transform: scale(1.1);
+}
+
+.category-image:active {
+    transform: scale(0.9);
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 10rem; /* Adjust the spacing between image cards */
+  }
+  
+
